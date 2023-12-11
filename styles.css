@@ -1,0 +1,20 @@
+.para {
+    color: rgb(211, 38, 142);
+    background-color: black;
+    text-align: center;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+}
+
+.formDiv {
+    width: 500px;
+    height: 1000px;
+    display: flex;
+    margin: auto;
+    background-color: aquamarine;
+    flex-direction: column;
+
+}
